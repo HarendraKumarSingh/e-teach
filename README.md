@@ -1,2 +1,2 @@
 # e-teach
-my first github repository
+Demo Teaching interface
